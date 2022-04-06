@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Assign_03_hierarchy", "ConsoleApp_Assign_03_hierarchy\ConsoleApp_Assign_03_hierarchy.csproj", "{06306E02-0B31-4F71-91B4-362EB8420EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06306E02-0B31-4F71-91B4-362EB8420EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06306E02-0B31-4F71-91B4-362EB8420EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06306E02-0B31-4F71-91B4-362EB8420EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06306E02-0B31-4F71-91B4-362EB8420EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B316F86C-975B-4DAE-9A2B-448C8F340FD0}
+	EndGlobalSection
+EndGlobal
